@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ffhttp_gsheets_NullSheet</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Sheet cannot be null</shortDescription>
+        <value>Sheet cannot be null</value>
+    </labels>
+    <labels>
+        <fullName>ffhttp_gsheets_NullSheetId</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Sheet ID cannot be null</shortDescription>
+        <value>Sheet ID cannot be null</value>
+    </labels>
+    <labels>
+        <fullName>ffhttp_gsheets_NullWorksheet</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Worksheet cannot be null</shortDescription>
+        <value>Worksheet cannot be null</value>
+    </labels>
+    <labels>
+        <fullName>ffhttp_gsheets_NullWorksheetId</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Worksheet ID cannot be null</shortDescription>
+        <value>Worksheet ID cannot be null</value>
+    </labels>
+</CustomLabels>

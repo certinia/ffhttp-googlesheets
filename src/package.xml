@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ffhttp_GoogleSheets</members>
+        <members>ffhttp_GoogleSheetsCells</members>
+        <members>ffhttp_GoogleSheetsModelAbstractObject</members>
+        <members>ffhttp_GoogleSheetsModelAuthor</members>
+        <members>ffhttp_GoogleSheetsModelBatch</members>
+        <members>ffhttp_GoogleSheetsModelCell</members>
+        <members>ffhttp_GoogleSheetsModelSheet</members>
+        <members>ffhttp_GoogleSheetsModelTest</members>
+        <members>ffhttp_GoogleSheetsModelUrlLink</members>
+        <members>ffhttp_GoogleSheetsModelWorksheet</members>
+        <members>ffhttp_GoogleSheetsResource</members>
+        <members>ffhttp_GoogleSheetsSpreadsheets</members>
+        <members>ffhttp_GoogleSheetsTest</members>
+        <members>ffhttp_GoogleSheetsWorksheets</members>
+        <members>ffhttp_IXmlSerializable</members>
+        <members>ffhttp_XmlParseException</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>ffhttp_gsheets_NullSheet</members>
+        <members>ffhttp_gsheets_NullSheetId</members>
+        <members>ffhttp_gsheets_NullWorksheet</members>
+        <members>ffhttp_gsheets_NullWorksheetId</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>ffhttp_gsheets_Google</members>
+        <members>ffhttp_gsheets_Sheets_API</members>
+        <name>RemoteSiteSetting</name>
+    </types>
+    <version>32.0</version>
+</Package>
