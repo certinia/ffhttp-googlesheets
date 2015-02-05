@@ -13,6 +13,8 @@ An Apex framework has been created to provide functionality for Google Sheets AP
 
 This library extends the [Core](https://github.com/financialforcedev/ffhttp-core) library to provide access to Google Sheets API calls found at https://developers.google.com/google-apps/spreadsheets/.
 
+Samples demonstrating the use of this library can be found [here](https://github.com/financialforcedev/ffhttp-googlesheets-samples).
+
 **NOTE:** Unlike the other Google libraries ([Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint), [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive) & [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror)), Google Sheets uses XML for requests rather than JSON.
 
 Key Features
