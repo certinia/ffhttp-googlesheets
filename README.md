@@ -116,7 +116,7 @@ This section explains how to create a connection between Salesforce and Google S
 
 Make sure that the [Core](https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core) and [Google Sheets](https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-googlesheets) packages have been deployed to your Saleforce organisation.
 
-###Create an app in Google
+### Create an app in Google
 
 1. Log in to your Google account.
 2. Go to https://console.developers.google.com/project and select **Create Project**.
@@ -131,7 +131,7 @@ Make sure that the [Core](https://githubsfdeploy.herokuapp.com?owner=financialfo
 11. Select the **Consent screen**.
 12. Enter a **Product Name** and save.
 
-###Create a Connector in Salesforce
+### Create a Connector in Salesforce
 
 This requires the [OAuth Sample App](https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core-samples) to be deployed.
 
@@ -156,7 +156,7 @@ This requires the [OAuth Sample App](https://githubsfdeploy.herokuapp.com?owner=
 
 Note that authorization can be revoked at any point by either deleting the connector in Salesforce or revoking access to the app in Google (Select your profile then Account > Security > Account Permissions > Apps and website (View All), choose the app created and then select **Revoke Access**).
 
-###Google Sheets Scopes
+### Google Sheets Scopes
 
 + https://spreadsheets.google.com/feeds 
 + https://docs.google.com/feeds
