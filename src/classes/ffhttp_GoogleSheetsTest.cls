@@ -253,7 +253,7 @@ private class ffhttp_GoogleSheetsTest
 	 */
 	private static ffhttp_GoogleSheets createGoogleSheets()
 	{
-		return new ffhttp_GoogleSheets(new ffhttp_Client.Credentials('Bearer', 'Dummy Access Token'));
+		return new ffhttp_GoogleSheets(new ffhttp_Client.AccessTokenCredentials('Bearer', 'Dummy Access Token'));
 	}
 
 	private static void assertRequestEndpointAndMethod(ffhttp_GoogleSheetsResource.GoogleSheetRequest request, 
