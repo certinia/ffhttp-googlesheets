@@ -39,7 +39,7 @@ public with sharing class ffhttp_GoogleSheets extends ffhttp_Client.AbstractClie
      * @param credentials HTTP request credentials required for authentication.
      * @return The Google Sheet API HTTP client giving access to all API calls.
      */
-	public ffhttp_GoogleSheets(ffhttp_Client.Credentials credentials) 
+	public ffhttp_GoogleSheets(ffhttp_Client.ICredentials credentials) 
 	{ 
 		this.setCredentials(credentials);
 	}
